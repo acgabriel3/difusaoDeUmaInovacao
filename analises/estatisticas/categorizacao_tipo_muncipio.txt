@@ -1,0 +1,21 @@
+[6] "Capital Regional B"                                                           
+[7] "Capital Regional C"                                                           
+[14] "Centro de Zona A"                                                             
+[15] "Centro de Zona B"                                                             
+[17] "Centro Local"                                                                 
+[11] "Centro Subregional A"                                                         
+[12] "Centro Subregional B"                                                         
+[8] "Integrante de Capital Regional A "                                            
+[9] "Integrante de Capital Regional B "                                            
+[10] "Integrante de Capital Regional C "                                            
+[16] "Integrante de Centro de Zona A "                                              
+[2] "Integrante de Metrópole "                                                     
+[3] "Núcleo de Capital Regional A "                                                
+[4] "Núcleo de Capital Regional B "                                                
+[5] "Núcleo de Capital Regional C "                                                
+[13] "Núcleo de Centro de Zona A "                                                  
+[1] "Núcleo de Metrópole "                                                         
+[18] "Sem hierarquia urbana pesquisada, devido à sua instalação após o ano de 2007." 
+
+vetor no momento: c(6,7,14,15,17,11,12,8,9,10,16,2,3,4,5,13,1,18) #tem que ser classificado pelo inverso --> deve haver uma normalizacao
+--> para o aprendizado de maquina, bata tipificar cada observacao
